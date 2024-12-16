@@ -97,6 +97,4 @@ for paper in recommendations:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/34633342/6d1eaa4f-1a31-493f-9327-7fda3d2c0468/USML-Project-Report.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/34633342/6d1eaa4f-1a31-493f-9327-7fda3d2c0468/USML-Project-Report.pdf
+
